@@ -12,7 +12,7 @@ Target variables:
 2.seasonal_vaccine (0: No, 1: Yes)
 
 Model:
-1.Support Vector Machine (SVM) with a RGF kernel.
+1.Support Vector Machine (SVM) with a linear kernel.
 2.Feature Scaling using StandardScaler.
 3.Encoding categorical variables using Label Encoding.
 4.Train-Test Split (80% training, 20% testing).
