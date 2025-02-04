@@ -18,8 +18,8 @@ Model:
 4.Train-Test Split (80% training, 20% testing).
 
 Performance:
-H1N1 Vaccine Prediction Accuracy: ...
-Seasonal Flu Vaccine Prediction Accuracy: ... 
+H1N1 Vaccine Prediction Accuracy: 
+Seasonal Flu Vaccine Prediction Accuracy: 
 Evaluation Metrics: Precision, Recall, F1-score
 
 Results:
